@@ -1,0 +1,1 @@
+SK: Aplikácia, ktorá zoradí excelovskú tabuľku podľa vybraného stĺpca a hodnoty (pôvodná nesprávna hmotnosť). Následne dá možnosť zadať novú hmotnosť do pridaného stĺpca  a vyexportovať znovu do excelu.
